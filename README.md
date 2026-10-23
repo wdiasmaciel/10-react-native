@@ -1,3 +1,3 @@
-# 10-react-native-abas
+# 10-react-native
 
 ![Telas do exemplo](telas.png)
